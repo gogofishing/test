@@ -12,4 +12,4 @@ test new update
 commit
 
 # Git教程
-- feature-A
+myBranch
